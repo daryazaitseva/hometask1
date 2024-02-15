@@ -1,2 +1,1 @@
-str = 'Привет, Python! Hello, Python! Bonjour, Python! Hej, Python! Hola, Python!'
-print(str.split(), sep = '\n')
+print('Привет, Python!', 'Hello, Python!', 'Bonjour, Python!', 'Hej, Python!', 'Hola, Python!',  sep='\n')
